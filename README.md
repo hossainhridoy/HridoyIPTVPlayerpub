@@ -7,7 +7,7 @@
   **The Ultimate Web-Based Streaming Solution with Unlimited Local Storage.**
  
 <div align="center">
-  <a href="https://github.com/hossainhridoy/HridoyIPTVPlayerpub/releases/download/v1.0/Hridoy.IPTV.Player.1.0.apk">
+  <a href="https://github.com/hossainhridoy/HridoyIPTVPlayerpub/releases/download/v1.0/hridoy.iptv.player1.0.apk">
     <img src="https://img.shields.io/badge/Download-Android%20App-00E676?style=for-the-badge&logo=android&logoColor=white" height="50">
   </a>
   <br>
