@@ -2,7 +2,7 @@
 
   <img src="https://i.ibb.co.com/M3s1RB5/11488.png" alt="Hridoy IPTV Player Logo" width="120" height="120" style="border-radius: 20px;">
 
-  # Hridoy IPTV Player V1.0
+  # Hridoy IPTV Player
   
   **The Ultimate Web-Based Streaming Solution with Unlimited Local Storage.**
  
